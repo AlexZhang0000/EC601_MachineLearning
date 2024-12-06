@@ -1,5 +1,6 @@
 # EC601_MachineLearning
-
+# Website: 
+http://chinesecalligraphyai.com/ 
 # Definition of the project: 
 
 To create a calligraphy learning platform based on deep learning so that personalized feedback and practice suggestions can be provided based on learners' writing style and their ability. The platform can analyze users' writing habits in real time and then provide targeted improvement suggestions, enhancing users ' calligraphy ability step by step.
